@@ -6,7 +6,7 @@ const CACHE = "pwa-offline-page";
 // TODO: replace the following with the correct offline fallback page i.e.: const offlineFallbackPage = "offline.html";
 const offlineFallbackPage = "index.html";
 const fCache = [
-  'https://klismanmelo.github.io/oficina/',
+  'https://klismanmelo.github.io/pwa/',
   'js/pwa.js'
 ];
 /*
